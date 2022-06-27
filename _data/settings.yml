@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: FUDAN-ICS-LAB
 logo:
-author: themefisher
+author: GalenYu
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: zqyu21@m.fudan.edu.cn
+phone: +86 198 2273 0795
+address: No. 2005, Songhu Road, Yangpu District, Shanghai, China
+copyright: Copyright &copy; 2022 Developed by [YU](https://github.com/galenyu.com)
 
 menu:
   - { name: About, link: "/about" }
