@@ -7,7 +7,7 @@ logo:
 author: GalenYu
 description: this is meta description
 email: zqyu21@m.fudan.edu.cn
-phone: +86 198 2273 07951
+phone: +86 198 2273 0795
 address: No. 2005, Songhu Road, Yangpu District, Shanghai, China
 copyright: Copyright &copy; 2022 Developed by [YU](https://github.com/galenyu)
 
@@ -146,24 +146,24 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Platform
 services:
   - {
-      name: UI Design,
+      name: Distributed AI Platform,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Embedded system development and HW-SW Codesign.Facing the edge cluster, realizes collaboration quickly and efficiently.",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Acceleration platform,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Hardware acceleration of deep learning models for heterogeneous devices.Software and hardware coordination and rapid deployment.",
       active: true, # Add true to select section
     }
   - {
       name: Interaction Design,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Development of artificial intelligence on embedded platforms.Available and lightweight AI-enabled embedded devices are implemented.",
       active: ,# Add true to select section
     }
 
@@ -171,6 +171,7 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
+portfolio-title: Projects
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
@@ -189,9 +190,9 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "DDL System", type: "design" }
+  - { title: "Collaborative Learning", type: "branding" }
+  - { title: "Model Lightweight", type: "illustration" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
@@ -300,4 +301,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: zqyu21@m.fudan.edu.cn
