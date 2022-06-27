@@ -39,10 +39,10 @@ hero:
   hero-title: We focus on <br> Distributed IoT <br> Intelligent Systems
 
 social:
-  - { icon: "ti-email", link: "#" }
+  - { icon: "ti-email", link: "mailto:zqyu21@m.fudan.edu.cn" }
   - { icon: "ti-github", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-wechat", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
