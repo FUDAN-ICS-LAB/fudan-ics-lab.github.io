@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: We are interested in the following areas: (1) Embedded system development and HW-SW Codesign; (2) Development of artificial intelligence on embedded platforms (such as TinyML, etc.); (3) Lightweight edge intelligence algorithms and applications (such as agent -based optimization, time series, anomaly detection, etc.)
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -57,29 +57,29 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
+  - title: "Distributed System"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Embedded system development and HW-SW Codesign."
 
-  - title: "Design and Develop"
+  - title: "Embedded Platforms"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Development of artificial intelligence on embedded platforms (such as TinyML, etc.)."
 
-  - title: "Deliver"
+  - title: "Smart Factoryr"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Lightweight edge intelligence algorithms and applications (such as agent -based optimization, time series, anomaly detection, etc.)."
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Zhuoquan Yu"
     image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+    designation: "Engineer"
 
-  - title: "Julias Carlie"
+  - title: "Yifan Chen"
     image: "assets/images/team/member-2.png"
     designation: "Web Developer"
 
-  - title: "John Doe"
+  - title: "Huidong Ji"
     image: "assets/images/team/member-3.png"
     designation: "Designer"
 
@@ -88,59 +88,59 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
+  - { name: AI Design, color: "#fdb157", value: "90%" }
+  - { name: Edge Develop, color: "#9473e6", value: "60%" }
+  - { name: Algorithm, color: "#bdecf6", value: "80%" }
   - { name: Web App, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Development History
 experience:
   - {
-      name: Junior UX Designer,
+      name: Lab Creation,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Jan 2017 - Feb 2022",
+      organization: "FUDAN",
     }
   - {
-      name: UX & UI Designer,
+      name: Grow Gradually,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Mar 2022 - Aug 2022",
+      organization: "FUDAN",
     }
   - {
-      name: Senior UI Designer,
+      name: Harvest Results,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Sep 2022 - Present",
+      organization: "FUDAN",
     }
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Awards
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
+      name: Best New Team,
+      date: "2017",
       organization: "Masassusets Institute of Technology",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
+      name: Best New Team,
+      date: "2018",
       organization: "Harvard University",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      name: IEEE Awards,
+      date: "2020",
+      organization: "Fudan",
     }
   - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: IEEE Awards,
+      date: "2022",
+      organization: "Fudan",
     }
 
 #-------------------------------
