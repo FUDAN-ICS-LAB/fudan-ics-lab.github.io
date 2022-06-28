@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 👋 Welcome <br> to ICS-LAB! <br> We're working on...
+  hero-title: 👋 Welcome to <br> FUDAN-ICS-LAB! <br> We're working on...
 
 social:
   - { icon: "ti-email", link: "mailto:zqyu21@m.fudan.edu.cn" }
