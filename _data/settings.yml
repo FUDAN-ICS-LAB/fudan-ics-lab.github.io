@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: We are interested in the following areas: (1) Embedded system development and HW-SW Codesign; (2) Development of artificial intelligence on embedded platforms (such as TinyML, etc.); (3) Lightweight edge intelligence algorithms and applications (such as agent -based optimization, time series, anomaly detection, etc.)
+blurb: We are interested in the following areas, (1) Embedded system development and HW-SW Codesign; (2) Development of artificial intelligence on embedded platforms (such as TinyML, etc.); (3) Lightweight edge intelligence algorithms and applications (such as agent -based optimization, time series, anomaly detection, etc.)
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
