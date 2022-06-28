@@ -155,13 +155,13 @@ services:
       active: ,# Add true to select section
     }
   - {
-      name: Acceleration platform,
+      name: Acceleration Platform,
       icon: ti-vector,
       description: "Hardware acceleration of deep learning models for heterogeneous devices.Software and hardware coordination and rapid deployment.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Embedded Platform,
       icon: ti-panel,
       description: "Development of artificial intelligence on embedded platforms.Available and lightweight AI-enabled embedded devices are implemented.",
       active: ,# Add true to select section
