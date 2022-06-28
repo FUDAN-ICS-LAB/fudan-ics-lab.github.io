@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2022 Developed by [YU](mailto:zqyu21@m.fudan.edu.cn)
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Publications, link: "/blog" }
+  - { name: Publications, link: "/publications" }
   - { name: Projects, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
