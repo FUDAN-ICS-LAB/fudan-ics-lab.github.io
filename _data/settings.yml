@@ -3,7 +3,7 @@
 # General Site Settings
 
 title: FUDAN-ICS-LAB
-logo: "/assets/images/fudan_icon"
+logo: "assets/images/fudan_icon.png"
 author: GalenYu
 description: this is meta description
 email: zqyu21@m.fudan.edu.cn
