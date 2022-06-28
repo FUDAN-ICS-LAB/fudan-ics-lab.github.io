@@ -9,7 +9,7 @@ description: this is meta description
 email: zqyu21@m.fudan.edu.cn
 phone: +86 198 2273 0795
 address: No. 2005, Songhu Road, Yangpu District, Shanghai, China
-copyright: Copyright &copy; 2022 Developed by [YU](https://github.com/galenyu)
+copyright: Copyright &copy; 2022 Developed by [YU](mailto:zqyu21@m.fudan.edu.cn)
 
 menu:
   - { name: About, link: "/about" }
